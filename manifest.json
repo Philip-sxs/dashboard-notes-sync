@@ -1,0 +1,10 @@
+{
+	"id": "dashboard-notes-sync",
+	"name": "Dashboard Notes Sync",
+	"version": "1.0.0",
+	"minAppVersion": "1.4.0",
+	"description": "Two-way sync between this vault and the notes board of a self-hosted dashboard web app.",
+	"author": "philip",
+	"authorUrl": "",
+	"isDesktopOnly": false
+}
